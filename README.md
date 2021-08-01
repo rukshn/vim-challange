@@ -1,6 +1,6 @@
 # The Vim Challange
 
-![Vim Dishwash](https://images-na.ssl-images-amazon.com/images/I/61-4eJ-pn0L.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/61-4eJ-pn0L.jpg" height="300p" width="300" alt="Vim dishwash" />
 
 I always wanted to learn Vim. I tried switching to vim several times. Every time when I tried to use Vim I get scared or dishartened and switch back to VSCode or Sublime Text. 
 
