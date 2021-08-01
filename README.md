@@ -1,5 +1,7 @@
 # The Vim Challange
 
+![https://images-na.ssl-images-amazon.com/images/I/61-4eJ-pn0L.jpg]('https://images-na.ssl-images-amazon.com/images/I/61-4eJ-pn0L.jpg')
+
 I always wanted to learn Vim. I tried switching to vim several times. Every time when I tried to use Vim I get scared or dishartened and switch back to VSCode or Sublime Text. 
 
 I know the learning curve is steep, and it's not as easy as using VSCode, where you just install and go. But I'm sure if I put on some effort during my spare time I might be able to learn it for good. 
